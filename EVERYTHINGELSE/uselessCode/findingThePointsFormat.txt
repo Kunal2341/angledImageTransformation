@@ -1,0 +1,106 @@
+
+sourceMatsArrayOne = ((image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2])) # top
+
+sourceMatsArrayOne = ((image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2])) # left
+sourceMatsArrayOne = ((image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]))  #no
+sourceMatsArrayOne = ((image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2])) #  no
+sourceMatsArrayOne = ((image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2])) # top
+sourceMatsArrayOne = ((image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2])) # left
+sourceMatsArrayOne = ((image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2])) # no
+
+sourceMatsArrayOne = ((image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2])) # left
+sourceMatsArrayOne = ((image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2])) # no
+sourceMatsArrayOne = ((image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2])) # CORRECT FINALLY
+
+sourceMatsArrayOne = ((image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2])) #  no
+
+sourceMatsArrayOne = ((image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2])) #  yes
+
+sourceMatsArrayOne = ((image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2])) # no
+
+sourceMatsArrayOne = ((image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2])) # no 
+
+sourceMatsArrayOne = ((image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2])) # left
+
+sourceMatsArrayOne = ((image_f26_a20_h305[15][1],image_f26_a20_h305[15][2]),
+                       (image_f26_a20_h305[3][1],image_f26_a20_h305[3][2]),
+                       (image_f26_a20_h305[12][1],image_f26_a20_h305[12][2]),
+                       (image_f26_a20_h305[0][1],image_f26_a20_h305[0][2])) # no
+
