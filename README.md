@@ -72,7 +72,8 @@ So looking at this image, I was able to create 4 lines of best fits from each of
 
 Which gives an (x,y) point (graphed as a star but can't see in this image). 
 
-Now using a function called cv2.findHomography and cv2.warpPerspective which do the following, When I input the 4 corner points of the gym mat, into this function (using linear algebra which I barely understood and my friend explained to me) it returns a transformation matrix. This is a set of 9 numbers-oriented in a 3 by 3 grid which by multiplying it by each x,y coordinate you are able to stretch the image which gives the following resulting image. 
+Now using a function called cv2.findHomography and cv2.warpPerspective which do the following, When I input the 4 corner points of the gym mat, into this function it returns a transformation matrix. This is a set of 9 numbers-oriented in a 3 by 3 grid which by multiplying it by each x,y coordinate you are able to stretch the image which gives the following resulting image. 
+
 Figure_2.png
 
 Right now it's flipped, but I am still figuring out the order of the 4 points in order to create it normally. 
@@ -81,8 +82,7 @@ This transformation matrix will now be used to the entire image to shape it corr
 
 https://learnopencv.com/feature-based-image-alignment-using-opencv-c-python/
 
-Now when I shape the entire image there are going to be part of the image which will be blacked out. in order to have a rectangular image but that won't be as bad. I have also created a YOLO model to detect a person which is working well and using the bounding box on the image multiplied by the same transformation matrix I will be able to accurately locate the person. 
-I have found the following code which serves my purpose perfectly but it is in C++, but I need it in python. So right now I am struggling with converting it to python, so if you know someone that that knows both C++ and Python, it will be extremely useful. 
+Now when I shape the entire image there are going to be part of the image which will be blacked out. in order to have a rectangular image but that won't be as bad.
 
 https://scode7.blogspot.com/2019/05/perspective-transformation-opencv-c.html
 
